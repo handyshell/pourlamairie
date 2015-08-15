@@ -11,7 +11,7 @@ Site web et communauté interactive
 
 
 ****************************************************************************
-#Description-short
+#short-Description
 --------------------
 A la fois Site web et communauté interactive
 pourLAmairie est une plateforme d'e-éducation
