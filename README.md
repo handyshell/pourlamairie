@@ -10,6 +10,10 @@ répondant aux attentes,et aux besoins de sa communauté.
 
 ----------------------------------------------------------------------------------------------------------------------
 
+#Apropos de nous
+http://www.handyshell.github.io/pourlamairie
+====================================================================================================================
+
 =====================================================================================================================
 #Available version: V2.1.015022015pLm
 
@@ -22,8 +26,9 @@ répondant aux attentes,et aux besoins de sa communauté.
 
 
 #*Les sources seront bientot dispo
+======================================
 
 
-Une fois encore merçi de réjoindre la communauté dans laquelle tout le monde travaille pourLamairie. :p
+Une fois encore merçi de réjoindre la communauté dans laquelle tout le monde travaille pourLamairie.
 
 
