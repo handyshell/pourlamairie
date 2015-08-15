@@ -3,10 +3,10 @@ Site web et communauté interactive
 ---------------------------------------------------------------------------------------------------------------------
 
 ======================================================================================================================
-                                           #Etat du site:                                                           
+                                           var Etat du site=                                                           
                                                                                                                     
-                                   var statut= ' #ACTUELLEMNT AU LABO';                                                                                                                                                                  
-                 #Néamoins vous pouvez en savoir plus sur nous en lisant juste après                              
+                                          ' ACTUELLEMENT AU LABO ' ;                                                                                                                                                                  
+                         Néamoins vous pouvez en savoir plus sur nous en lisant juste après                              
                                                                                                                     ======================================================================================================================
 
 
@@ -25,7 +25,7 @@ répondant aux attentes,et aux besoins de sa communauté.
 #F.A.Q
 ---------------------------------------------------------------------------
 ***************************************************************************
- #Qui sommmes-nous                                                       
+#Qui sommmes-nous                                                       
 
 #C'est quoi pourLAmairie (pLm) :p
 
