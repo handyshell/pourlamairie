@@ -7,6 +7,7 @@ réunissant une kyriellle de d'amateurs
 et de professionnelles de differentes disciplines
 proposant et réunissant au quotidien des cours
 répondant aux attentes,et aux besoins de sa communauté.
+
 ----------------------------------------------------------------------------------------------------------------------
 
 =====================================================================================================================
