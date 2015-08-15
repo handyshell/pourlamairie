@@ -11,7 +11,7 @@ Site web et communauté interactive
 
 
 ****************************************************************************
-#short-Description
+#short-description
 --------------------
 A la fois Site web et communauté interactive
 pourLAmairie est une plateforme d'e-éducation
@@ -46,7 +46,7 @@ Nous croyons que des cours bien explicités sont aussi bien assimilés quand ils
 #Repository?
 
 Vous trouverez une boutique denommé affectuesement "LeMarché"
-Cette boutique est en quelques sortes notre repository ou store (on se répète mais bon ! (*_*)).
+Cette boutique est en quelques sortes notre repository ou store (on se répète mais bon...!).
 Tous nos cours y sont repertoriés qu'ils soient en format vidéos, textes ou images et des projets des projets (à therme) des membres.
 
 #Authors
