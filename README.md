@@ -3,12 +3,11 @@ Site web et communauté interactive
 ---------------------------------------------------------------------------------------------------------------------
 
 ======================================================================================================================
-=                                           #Etat du site:                                                           =
-=                                                                                                                    =
-=                                   var statut= ' ACTUELLEMNT AU LABO';                                              =
-=                                                                                                                    =
-=                  'Néamoins vous pouvez en savoir plus sur nous en lisant juste après'                              =
-=                                                                                                                    = ======================================================================================================================
+                                           #Etat du site:                                                           
+                                                                                                                    
+                                   var statut= ' #ACTUELLEMNT AU LABO';                                                                                                                                                                  
+                 #Néamoins vous pouvez en savoir plus sur nous en lisant juste après                              
+                                                                                                                    ======================================================================================================================
 
 
 ****************************************************************************
@@ -26,9 +25,7 @@ répondant aux attentes,et aux besoins de sa communauté.
 #F.A.Q
 ---------------------------------------------------------------------------
 ***************************************************************************
-* #Qui sommmes-nous                                                       *
-* -------------------                                                     *
-***************************************************************************
+ #Qui sommmes-nous                                                       
 
 #C'est quoi pourLAmairie (pLm) :p
 
@@ -41,12 +38,12 @@ d'internautes prennant de l'engoûment à offrir leurs services gratuitement.
 Nous offrons une panoplie de cours que vous venez consulter et dont vous avez aussi la possiblité d'emmenez chez vous 
 (télécharger ; pour les 2.0 ). C'est tout  et c'es pas plus compliquez que ça. :P
 
-#Courses (*.*) ??!
+#Courses extension ??!
 Oui Oui ! le format des cours ???
 Nos cours sont en format texte (.epub, .pdf, .html), vidéos (.mp4)  et en infographie .
 Nous croyons que des cours bien explicités sont aussi bien assimilés quand ils disposent d'une mise en page adequate, intéréssante et simlifié à travers des contenus graphiques.C'est pourquoi nous proposons nos tutoriels aussi en infographie et video (Motion design).
 
-#Wher courses are located?
+#Repository?
 
 Vous trouverez une boutique denommé affectuesement "LeMarché"
 Cette boutique est en quelques sortes notre repository ou store (on se répète mais bon ! (*_*)).
@@ -76,6 +73,6 @@ faisons la joie de les proposer à la communauté pour qu'ils servent de support
 #*Les sources seront bientot dispo
 
 
-Donc une fois encore merçi de réjoindre la communauté dans laquelle tout le monde travaille pourLamairie.
+Donc une fois encore merçi de réjoindre la communauté dans laquelle tout le monde travaille pourLamairie. :p
 
 
